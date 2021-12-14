@@ -1,0 +1,4 @@
+de/bytepark/autoorientation/BuildConfig.java
+ de.bytepark.autoorientation.BuildConfig
+de/bytepark/autoorientation/AutoOrientationPlugin.java
+ de.bytepark.autoorientation.AutoOrientationPlugin

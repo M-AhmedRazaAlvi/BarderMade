@@ -1,0 +1,2 @@
+com/tahamalas/custom_switch_button/BuildConfig.java
+ com.tahamalas.custom_switch_button.BuildConfig
